@@ -7,3 +7,6 @@
 
 
     } fadeAnimation:YES]
+```
+ # gif 效果图
+![](https://github.com/renmoqiqi/UIImageView-AnimationForSDWebImage/blob/master/demo.gif)  
