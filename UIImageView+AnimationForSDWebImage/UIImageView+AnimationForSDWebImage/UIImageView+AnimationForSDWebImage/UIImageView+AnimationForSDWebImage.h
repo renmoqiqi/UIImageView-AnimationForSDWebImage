@@ -7,7 +7,7 @@
 //
 
 /*
- 
+  地址:https://github.com/renmoqiqi/UIImageView-AnimationForSDWebImage
   类别思路来自于 UIActivityIndicatorForSDWebImage
   动画灵感来自于网易新闻
   TODO 以后会加入各种动画效果
